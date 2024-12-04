@@ -1,4 +1,4 @@
-# 🤖John GP✈🤖
+# 🤖John GPT🤖
 
 ## Project Overview
 
