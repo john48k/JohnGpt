@@ -9,6 +9,7 @@ const ChatList = () => {
       <Link>Explore John AI</Link>
       <Link>Contact</Link>
       <hr />
+      <span className="title">RECENT CHATS</span>
       <div className="list">
         <Link>Create a New Chat</Link>
         <Link to="/">My chat title</Link>
