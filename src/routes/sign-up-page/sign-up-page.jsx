@@ -1,5 +1,5 @@
 import { SignUp } from "@clerk/clerk-react";
-import "./signUpPage.css";
+import "./sign-up-page.css";
 
 const SignUpPage = () => {
   return (
