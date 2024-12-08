@@ -1,5 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
-import "./rootLayout.css";
+import "./root-layout.css";
 import {
   ClerkProvider,
   SignedIn,

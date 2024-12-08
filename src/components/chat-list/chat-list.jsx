@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./chatList.css";
+import "./chat-list.css";
 
 const ChatList = () => {
   return (

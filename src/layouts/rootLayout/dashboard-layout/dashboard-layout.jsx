@@ -1,8 +1,8 @@
 import { useAuth } from "@clerk/clerk-react";
-import "./dashboardLayout.css";
+import "./dashboard-layout.css";
 import { Outlet, useNavigate } from "react-router-dom";
 import { useEffect } from "react";
-import ChatList from "../../../components/chatList/ChatList";
+import ChatList from "../../../components/chat-list/chat-list";
 const DashboardLayout = () => {
   const { userId, isLoaded } = useAuth();
 
