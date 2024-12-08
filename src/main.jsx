@@ -11,6 +11,7 @@ import DashboardLayout from "./layouts/rootLayout/dashboard-layout/dashboard-lay
 import { ClerkProvider, SignIn, SignUp } from "@clerk/clerk-react";
 import SignInPage from "./routes/sign-in-page/sign-in-page";
 import SignUpPage from "./routes/sign-up-page/sign-up-page";
+import NewPrompt from "./components/new-prompt/new-prompt";
 
 const router = createBrowserRouter([
   {
